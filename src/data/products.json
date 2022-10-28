@@ -1,0 +1,65 @@
+[
+    {
+        "id": 101010,
+        "title": "Chanel Parfum",
+        "desc": "A colour plate entitled Benedictus Relais",
+        "price": 10.99,
+        "imgUrl": "/imgs/product (7).jpg",
+        "status": "available"
+    },{
+        "id": 101011,
+        "title": "Necessaire",
+        "desc": "A colour plate entitled Benedictus Relais",
+        "price": 69.99,
+        "imgUrl": "/imgs/product (1).jpg",
+        "status": "available"
+    },
+    {
+        "id": 101012,
+        "title": "Curology",
+        "desc": "A colour plate entitled Benedictus Relais",
+        "price": 20.99,
+        "imgUrl": "/imgs/product (2).jpg",
+        "status": "available"
+    },
+    {
+        "id": 101013,
+        "title": "Bioglow",
+        "desc": "A colour plate entitled Benedictus Relais",
+        "price": 25.99,
+        "imgUrl": "/imgs/product (3).jpg",
+        "status": "sold"
+    },
+    {
+        "id": 101014,
+        "title": "Mitzie",
+        "desc": "Mitzie Organic Cleaning Products. Packaged in an amber glass bottle to lock in the vegan goodness.",
+        "price": 49,
+        "imgUrl": "/imgs/product (4).jpg",
+        "status": "available"
+    },
+    {
+        "id": 101015,
+        "title": "Kelly's Bag",
+        "desc": "A colour plate entitled Benedictus Relais",
+        "price": 30.99,
+        "imgUrl": "/imgs/product (5).jpg",
+        "status": "available"
+    },
+    {
+        "id": 101016,
+        "title": "Toothpaste",
+        "desc": "A colour plate entitled Benedictus Relais",
+        "price": 10.99,
+        "imgUrl": "/imgs/product (6).jpg",
+        "status": "available"
+    },
+    {
+        "id": 101017,
+        "title": "Necessaire creme",
+        "desc": "A colour plate entitled Benedictus Relais",
+        "price": 10.99,
+        "imgUrl": "/imgs/product (8).jpg",
+        "status": "available"
+    }
+]
